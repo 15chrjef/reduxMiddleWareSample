@@ -4,6 +4,8 @@ a template that uses redux and middleware to maintain state
 =======
 # ReduxSimpleStarter
 
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+
 ###Getting Started###
 
 There are two methods for getting started with this repo.
